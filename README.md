@@ -1,4 +1,4 @@
-// // src/components/adminDashboard/dashboard/AdminSidebar.jsx
+```// // src/components/adminDashboard/dashboard/AdminSidebar.jsx
 
 import React from "react";
 import {
@@ -80,5 +80,5 @@ const AdminSidebar = () => {
 };
 
 export default AdminSidebar;
-
+```
 
